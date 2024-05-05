@@ -1,0 +1,1 @@
+This Amazon clone mimics the structure of the Amazon homepage, including sections for featured products, deals, and navigation. The design is responsive, allowing it to adjust to various screen sizes. While it's primarily focused on front-end development with HTML and CSS, it sets a foundation for future enhancements with JavaScript and back-end technologies.
